@@ -1,7 +1,11 @@
 class Person 
-  
-  
-end # end of the Dog class
 
-adele_goldberg = Person.new 
-alan_kay = Person.new 
+  def talk
+    "Woof"
+  end
+  
+  def walk
+    "The Dog is sitting"
+  end
+  
+end # end of the Person class
