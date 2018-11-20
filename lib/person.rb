@@ -5,7 +5,7 @@ class Person
   end
   
   def walk
-    "The Dog is sitting"
+    "The Person is walking"
   end
   
 end # end of the Person class
