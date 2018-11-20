@@ -5,7 +5,7 @@ class Dog
   end
   
   def bark
-    "Woof"
+    "The Dog is sitting"
   end
 end # end of the Dog class
 
